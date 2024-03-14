@@ -1,0 +1,1 @@
+## Exercício 02 de Padrão de Projetos | Singleton

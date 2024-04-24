@@ -1,5 +1,4 @@
 <?php
-
 class TaxaCambio
 {
     private $moedaOrigem;

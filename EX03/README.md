@@ -34,4 +34,7 @@ O padrão de projeto Adapter foi aplicado na classe `ConversorMoedaAdapter`. As 
 2. Clone este repositório em seu ambiente local.
 3 - Rode o arquivo dando "Run" no terminal.
 
+## Exibição do código em funcionamento
+<img src="https://media.discordapp.net/attachments/762572013210304512/1232741035902238831/EX03_PADRAO_DE_PROJETOS.png?ex=662a8f0e&is=66293d8e&hm=d76f6cac20b33d9a0f243bc1f1c7a5c0772c963d01388ed4f7e30b8c038a585c&=&format=webp&quality=lossless&width=887&height=468">
+
 Este é um exemplo simples de utilização do padrão de projeto Adapter em PHP. Este padrão é útil quando se deseja integrar sistemas que possuem interfaces incompatíveis, permitindo que eles trabalhem juntos de forma harmoniosa.

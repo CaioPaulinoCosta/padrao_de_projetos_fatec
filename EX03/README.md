@@ -36,4 +36,7 @@ O padrão de projeto Adapter foi aplicado na classe `ConversorMoedaAdapter`. As 
 4. Inicie o servidor web (por exemplo, `php -S localhost:8000`).
 5. Abra um navegador da web e acesse `http://localhost/seu_caminho/Cliente.php` para visualizar a conversão de moeda.
 
+## Exibição do código em funcionamento
+<img src="https://media.discordapp.net/attachments/762572013210304512/1232741035902238831/EX03_PADRAO_DE_PROJETOS.png?ex=662a8f0e&is=66293d8e&hm=d76f6cac20b33d9a0f243bc1f1c7a5c0772c963d01388ed4f7e30b8c038a585c&=&format=webp&quality=lossless&width=887&height=468">
+
 Este é um exemplo simples de utilização do padrão de projeto Adapter em PHP. Este padrão é útil quando se deseja integrar sistemas que possuem interfaces incompatíveis, permitindo que eles trabalhem juntos de forma harmoniosa.

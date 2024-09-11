@@ -1,0 +1,2 @@
+Link para repositório GitHub.
+https://github.com/CaioPaulinoCosta/padrao_de_projetos_fatec/tree/main/EX10
